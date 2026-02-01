@@ -108,6 +108,12 @@
 
 <br>
 
+<p align="center">
+  <em>Building intelligent systems • Learning every day • Open to collaboration</em>
+</p>
+
+<br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </div>
