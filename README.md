@@ -102,8 +102,8 @@
 ## 📫 How to Reach Me
 
 <p align="center">
-  📧 Email: <strong>warlordshad@gmail.com</strong><br>
-   LinkedIn: <a href="https://linkedin.com/in/bhagya-umayanga">Bhagya Umayanga</a>
+  📧 Email: <a href="mailto:warlordshad@gmail.com"><strong>warlordshad@gmail.com</strong></a><br>
+  💼 LinkedIn: <a href="https://linkedin.com/in/bhagya-umayanga">Bhagya Umayanga</a>
 </p>
 
 <br>
